@@ -1,0 +1,9 @@
+- insert:
+    - id: dsh-mobile-remote-control
+      name: dsh-mobile-remote-control
+      config:
+        enabled: true
+        autoTunnel: true
+        requirePairingForLan: true
+        mobileEnterToSend: true
+        mobileLanPort: 3081
